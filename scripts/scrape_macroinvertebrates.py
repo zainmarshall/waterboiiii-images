@@ -176,7 +176,8 @@ def main() -> int:
                 continue
 
             if mapped_label:
-                label_dir = images_root / slugify(mapped_label)
+                # Keep canonical item names so SciOly-ID can map folders directly.
+                label_dir = images_root / mapped_label.lower()
             else:
                 label_dir = images_root / "_unmapped" / slugify(raw_label)
             label_dir.mkdir(parents=True, exist_ok=True)

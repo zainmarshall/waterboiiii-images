@@ -1,7 +1,7 @@
 {
-  "scraped_at_utc": "2026-03-03T02:04:24.476007+00:00",
-  "iterations": 60,
-  "downloaded": 95,
-  "skipped": 28,
-  "unique_source_urls": 95
+  "scraped_at_utc": "2026-03-03T03:04:15.726498+00:00",
+  "iterations": 150,
+  "downloaded": 111,
+  "skipped": 183,
+  "unique_source_urls": 208
 }
