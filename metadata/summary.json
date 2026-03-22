@@ -1,7 +1,9 @@
 {
-  "scraped_at_utc": "2026-03-03T03:04:15.726498+00:00",
-  "iterations": 150,
-  "downloaded": 111,
-  "skipped": 183,
-  "unique_source_urls": 208
+  "scraped_at_utc": "2026-03-22T01:34:38.033167+00:00",
+  "provider": "inat",
+  "iterations": 29,
+  "query_requests": 58,
+  "downloaded": 348,
+  "skipped": 178,
+  "unique_source_urls": 616
 }

@@ -1,0 +1,9 @@
+{
+  "scraped_at_utc": "2026-03-21T19:58:54.184946+00:00",
+  "provider": "macroinvertebrates",
+  "iterations": 80,
+  "query_requests": 80,
+  "downloaded": 124,
+  "skipped": 42,
+  "unique_source_urls": 124
+}
